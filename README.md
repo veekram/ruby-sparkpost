@@ -6,7 +6,7 @@
 
 [![Travis CI](https://travis-ci.org/SparkPost/ruby-sparkpost.svg?branch=master)](https://travis-ci.org/SparkPost/ruby-sparkpost) [![Coverage Status](https://coveralls.io/repos/SparkPost/ruby-sparkpost/badge.svg?branch=master&service=github)](https://coveralls.io/github/SparkPost/ruby-sparkpost?branch=master) [![Slack Status](http://slack.sparkpost.com/badge.svg)](http://slack.sparkpost.com)
 
-Due to incredible support and contributions from the community, we will be discontinuing support of the official SparkPost ruby client library as of May 17, 2016. If you’re looking for an alternative, take a look at some of these [repositories](https://github.com/search?l=Ruby&q=sparkpost&type=Repositories&utf8=%E2%9C%93).
+**Due to incredible support and contributions from the community, we will be discontinuing support of the official SparkPost ruby client library as of May 17, 2016. If you’re looking for an alternative, take a look at some of these [repositories](https://github.com/search?l=Ruby&q=sparkpost&type=Repositories&utf8=%E2%9C%93).**
 
 ## Installation
 
